@@ -35,3 +35,7 @@ Run the Webpack Server
 yarn start
 ```
 The client application is available at [http://localhost:8080](http://localhost:8080).
+
+# License
+
+  MIT
